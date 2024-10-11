@@ -1,6 +1,16 @@
 .- 👋 Hi, I’m my name is Thiago Curadi. / Olá me chamo Thiago Curadi
-- 👀 I’m interested in collaborate with companies by being a C# developer. / Estou interessado em colaborar com empresas sendo um desenvolvedor da linguagem C#.
-- 🌱 I’m currently learning html,asp.net and flutter.In the future I also have interest in learning Python. / No momento estou html, asp.net e flutter. No futuro também tenho interesse em estudar a linguagem Python
+- 👀 I’m interested in collaborate with companies by being a developer. / Estou interessado em colaborar com empresas sendo um desenvolvedor da linguagem.
+- Tenho conhecimento nas linguagens e ferramentas;
+- Delphi
+- Docker
+- SQL
+- C# / .Net
+- Javascript
+- NoSQL
+- Python
+- CSS
+- HTML
+- 🌱 Estou sempre estudando e aprendendo sobre novas tecnologias. neste momento estou aprendendo AWS e Azure.
 - 📫 How to reach me./ Vocês podem me encontrar em.
 https://www.linkedin.com/in/thiago-cheida-curadi-776ab6114/
 https://www.facebook.com/thiago.curadi
